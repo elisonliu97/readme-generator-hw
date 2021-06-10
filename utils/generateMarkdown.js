@@ -40,7 +40,7 @@ function renderLicenseSection(license) {
   let licenseLink = renderLicenseLink(license);
 
   return `[Licensing Information](${licenseLink})
-  [License Badge](${badge})`
+  ![License Badge](${badge})`
 
 }
 
