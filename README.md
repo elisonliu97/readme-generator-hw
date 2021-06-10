@@ -29,5 +29,5 @@
 
   ## Questions
   If you have any problems or questions, you can email me at elisonliu97@gmail.com or contact me on my Github.
-  Github Page: [elisonliu97](github.com/elisonliu97)
+  Github Page: [elisonliu97](https://github.com/elisonliu97)
 
