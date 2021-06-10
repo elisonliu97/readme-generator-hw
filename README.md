@@ -20,10 +20,10 @@
   test
 
   ## License
-  [Licensing Information](https://spdx.org/licenses/MIT.html)
+  [MIT](https://spdx.org/licenses/MIT.html)
   ![License Badge](https://img.shields.io/badge/license-MIT-9cf)
 
   ## Questions
-  [test](github.com/test)
-  test
+  If you have any problems or questions, you can email me at test or contact me on my Github.
+  Github Page: [test](github.com/test)
 
