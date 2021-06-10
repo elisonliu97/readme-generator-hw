@@ -5,10 +5,10 @@
 
   ## Table of Contents
   - [Installation](#installation) 
-  - [Usage] #usage
-  - [Contribution-Guidelines] #contribution-guidelines
-  - [License] #license
-  - [Contact-Me] #contact-me
+  - [Usage](#usage)
+  - [Contribution Guidelines](#contribution-guidelines)
+  - [License](#license)
+  - [Contact Me](#contact-me)
 
   ## Installation
   test install
