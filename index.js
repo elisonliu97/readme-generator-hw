@@ -17,7 +17,7 @@ const question = ["What is your project title?: ",
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
-    fs.writeFile(fileName, data, (err) => err ? console.error(err) : console.log("File Generated"))
+    fs.writeFile(fileName, data, (err) => err ? console.error(err): console.log("File Generated"))
 }
 
 // TODO: Create a function to initialize app
@@ -72,8 +72,8 @@ function init() {
             },
         ])
         .then((response) => {
-            console.log(generateMarkdown(response));
-            writeToFile("README.md", generateMarkdown(response))
+            console.log(response);
+            writeToFile("README.md",generateMarkdown(response))
         })
 
 }
