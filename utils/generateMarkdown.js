@@ -39,7 +39,8 @@ function renderLicenseSection(license) {
   let badge = renderLicenseBadge(license);
   let licenseLink = renderLicenseLink(license);
 
-  return `[${badge}](#${licenseLink})`
+  return `[Licensing Information](${licenseLink})
+  [License Badge](${badge})`
 
 }
 
@@ -56,7 +57,7 @@ function generateMarkdown(data) {
   - [Usage](#usage)
   - [Contribution Guidelines](#contribution-guidelines)
   - [License](#license)
-  - [Contact me](#contact-me)
+  - [Contact me](#questions)
 
   ## Installation
   ${data.install}
@@ -70,8 +71,8 @@ function generateMarkdown(data) {
   ## License
   ${license}
 
-  ## Contact me
-  ${data.github}
+  ## Questions
+  [${data.github}](github.com/${data.github})
   ${data.email}
 
 `;
