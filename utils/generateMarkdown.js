@@ -17,26 +17,26 @@ function generateMarkdown(data) {
   ## Description
   ${data.description}
 
-  ##Table of Contents
+  ## Table of Contents
   - [Installation] (#installation)
   - [Usage] (#usage)
-  - [Contribution Guidelines] (#contribution-guidelines)
+  - [Contribution-Guidelines] (#contribution-guidelines)
   - [License] (#license)
-  - [Contact ME] (#contact-me)
+  - [Contact-me] (#contact-me)
 
-  ##Installation
+  ## Installation
   ${data.install}
 
-  ##Usage
+  ## Usage
   ${data.usage}
 
-  ##Contribution Guidelines
+  ## Contribution-Guidelines
   ${data.contribution}
 
-  ##License
+  ## License
   ${data.license}
 
-  ##Contact me
+  ## Contact-me
   ${data.github}
   ${data.email}
 
