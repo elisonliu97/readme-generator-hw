@@ -25,8 +25,7 @@
   node index.js
 
   ## License
-  [MIT](https://spdx.org/licenses/MIT.html)
-  ![License Badge](https://img.shields.io/badge/license-MIT-9cf)
+  [![License Badge](https://img.shields.io/badge/license-MIT-9cf)](https://spdx.org/licenses/MIT.html)
 
   ## Questions
   If you have any problems or questions, you can email me at elisonliu97@gmail.com or contact me on my Github.
