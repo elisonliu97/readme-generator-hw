@@ -58,7 +58,7 @@ function init() {
                 type: 'list',
                 message: question[6],
                 name: 'license',
-                choices: ["None", "APL 2.0", "GNU GPL v3", "MIT", "ISC"]
+                choices: ["None", "Apache-2.0", "GPL", "MIT", "ISC"]
             },
             {
                 type: 'input',
