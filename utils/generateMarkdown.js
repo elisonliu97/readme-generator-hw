@@ -39,7 +39,7 @@ function renderLicenseSection(license) {
   let badge = renderLicenseBadge(license);
   let licenseLink = renderLicenseLink(license);
 
-  return `[Licensing Information](${licenseLink})
+  return `[${license}](${licenseLink})
   ![License Badge](${badge})`
 
 }
@@ -72,8 +72,8 @@ function generateMarkdown(data) {
   ${license}
 
   ## Questions
-  [${data.github}](github.com/${data.github})
-  ${data.email}
+  If you have any problems or questions, you can email me at ${data.email} or contact me on my Github.
+  Github Page: [${data.github}](github.com/${data.github})
 
 `;
 }
